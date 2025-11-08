@@ -1,7 +1,9 @@
 body {
   background-color: AliceBlue;
   margin-top: 50px;
-  bottom-top: 50px
+  bottom-top: 50px;
+  height: auto;
+  overflow: auto;
 }
 
 .toni {
@@ -36,6 +38,7 @@ a:link {
 
 a:visited{
   color: RoyalBlue}
+
 
 
 
