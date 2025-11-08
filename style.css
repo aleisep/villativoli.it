@@ -1,16 +1,24 @@
-body {color:AliceBlue}
+body {
+  background-color: AliceBlue;
+  colour: black}
 
 .toni {
-color:yellow;
+color:black;
   text-align:center;}
-
+h1,h2,h3 {
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  colour: darkblue}
 p {
   text-align: center;
   margin-left: 40px;
-  margin-right:40px}
+  margin-right:40px;
+  font-family: Helvetica, Arial, sans-serif}
+  
 img{display:block;
     margin:zero auto;
     width:50%}
+
 
 
 
