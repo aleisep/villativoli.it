@@ -1,4 +1,4 @@
-body {
+tbody {
   background-color: AliceBlue;
   colour: navy}
 
@@ -23,7 +23,9 @@ img{
   display:block;
   margin:0 auto;
   text-align: center;
-  width: 200px}
+  width: 200px;
+  height: 200px;
+  object-fit: cover}
 
 a { 
   colour:LemonChiffon;
@@ -31,6 +33,7 @@ a {
 
 a:visited{
   colour:RoyalBlue}
+
 
 
 
