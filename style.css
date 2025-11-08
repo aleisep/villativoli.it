@@ -9,15 +9,18 @@ h1,h2,h3 {
   font-family: Helvetica, Arial, sans-serif;
   font-weight: bold;
   colour: darkblue}
+h2,h3 {
+  margin-left: 40px;
+  margin-right: 40px}
 p {
-  text-align: center;
   margin-left: 40px;
   margin-right:40px;
   font-family: Helvetica, Arial, sans-serif}
   
-img{display:block;
+imggini{display:block;
     margin:zero auto;
     width:50%}
+
 
 
 
