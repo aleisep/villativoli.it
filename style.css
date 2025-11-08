@@ -3,12 +3,14 @@ body {
   colour: black}
 
 .toni {
-color:black;
-  text-align:center;}
+  color:navy;
+  text-align:center}
+
 h1,h2,h3 {
   font-family: Helvetica, Arial, sans-serif;
   font-weight: bold;
-  colour: darkblue}
+  colour: navy}
+
 h2,h3 {
   margin-left: 40px;
   margin-right: 40px}
@@ -17,6 +19,26 @@ p {
   margin-right:40px;
   font-family: Helvetica, Arial, sans-serif}
   
+img{
+  display:block;
+  margin:0 auto;
+  width: 200px}
+
+a{ 
+  colour:LemonChiffon;
+  text-decoration: none}
+
+a:visited{
+  colour:RoyalBlue}
+
+img {
+  display: block;
+  margin: 0 auto}
+
+
+
+
+
 
 
 
