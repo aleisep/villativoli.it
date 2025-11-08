@@ -4,3 +4,11 @@ body {color:blue}
 color:yellow;
   text-align:center;}
 
+p {
+  text-align: center;
+  margin-left: 40px;
+  margin-right:40px}
+img{display:block;
+    margin:zero auto;
+    width:50%}
+
