@@ -1,6 +1,6 @@
 body {
   background-color: AliceBlue;
-  colour: black}
+  colour: navy}
 
 .toni {
   color:navy;
@@ -12,8 +12,8 @@ h1,h2,h3 {
   colour: navy}
 
 h2,h3 {
-  margin-left: 40px;
-  margin-right: 40px}
+  margin-left: 100px;
+  margin-right: 100px}
 p {
   margin-left: 100px;
   margin-right:100px;
@@ -22,18 +22,16 @@ p {
 img{
   display:block;
   margin:0 auto;
+  text-align: center;
   width: 200px}
 
-a{ 
+a { 
   colour:LemonChiffon;
   text-decoration: none}
 
 a:visited{
   colour:RoyalBlue}
 
-img {
-  display: block;
-  margin: 0 auto}
 
 
 
