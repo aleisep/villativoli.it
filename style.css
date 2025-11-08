@@ -1,6 +1,9 @@
-tbody {
+body {
   background-color: AliceBlue;
-  colour: navy}
+  colour: navy;
+  margin-top: 20px;
+  bottom-top: 20px
+}
 
 .toni {
   color:navy;
@@ -19,20 +22,21 @@ p {
   margin-right:100px;
   font-family: Helvetica, Arial, sans-serif}
   
-img{
+img {
   display:block;
   margin:0 auto;
   text-align: center;
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   object-fit: cover}
 
 a { 
   colour:LemonChiffon;
-  text-decoration: none}
+  text-decoration:none}
 
 a:visited{
   colour:RoyalBlue}
+
 
 
 
